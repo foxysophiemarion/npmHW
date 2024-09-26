@@ -1,0 +1,22 @@
+{
+	"name": "nidrafsmgb",
+	"version": "5.3.3",
+	"description": "for GB homework",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/foxysophiemarion/npmHW.git"
+	},
+	"keywords": [
+		"quadratic"
+	],
+	"author": "nidrafsmgb",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/foxysophiemarion/npmHW/issues"
+	},
+	"homepage": "https://github.com/foxysophiemarion/npmHW#readme"
+}
